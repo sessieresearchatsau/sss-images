@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     12179,        297]
-NotebookOptionsPosition[     11696,        280]
-NotebookOutlinePosition[     12097,        296]
-CellTagsIndexPosition[     12054,        293]
+NotebookDataLength[     12496,        303]
+NotebookOptionsPosition[     11915,        285]
+NotebookOutlinePosition[     12320,        301]
+CellTagsIndexPosition[     12277,        298]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -21,8 +21,8 @@ Notebook[{
 
 Cell[CellGroupData[{
 Cell["A few (probably) 2-D examples:", "Chapter",
- CellChangeTimes->{{3.8322707104528356`*^9, 
-  3.8322707260002165`*^9}},ExpressionUUID->"353635ab-7302-4b81-99f3-\
+ CellChangeTimes->{{3.832270710452835*^9, 
+  3.832270726000216*^9}},ExpressionUUID->"353635ab-7302-4b81-99f3-\
 93d14095631e"],
 
 Cell[BoxData[
@@ -272,15 +272,20 @@ Cell[BoxData[
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
  CellChangeTimes->{
-  3.832270523612666*^9, 3.832270555979086*^9, {3.8322705889092274`*^9, 
-   3.8322706138425436`*^9}, 3.832270647939779*^9},
+  3.832270523612666*^9, 3.832270555979086*^9, {3.832270588909227*^9, 
+   3.8322706138425426`*^9}, 3.832270647939779*^9},
  CellLabel->
-  "Out[141]=",ExpressionUUID->"620ece10-7b85-4f8b-896f-0d3f22f3e749"]
+  "Out[141]=",ExpressionUUID->"620ece10-7b85-4f8b-896f-0d3f22f3e749"],
+
+Cell[BoxData[
+ RowBox[{"Needs", "[", "\"\<SSSiCv100`\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.9384531463087444`*^9, 3.938453155591921*^9}},
+ CellLabel->"In[32]:=",ExpressionUUID->"df8bf455-cb55-9e41-8f44-86608dcc933a"]
 }, Open  ]]
 },
 WindowSize->{658.5, 439.5},
-WindowMargins->{{Automatic, 0}, {-12, Automatic}},
-FrontEndVersion->"12.3 for Microsoft Windows (64-bit) (May 11, 2021)",
+WindowMargins->{{Automatic, 59}, {Automatic, 4}},
+FrontEndVersion->"14.0 for Microsoft Windows (64-bit) (December 12, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"ab3cc24d-965d-406a-af56-9abd72f50588"
 ]
@@ -296,12 +301,11 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 179, 3, 69, "Chapter",ExpressionUUID->"353635ab-7302-4b81-99f3-93d14095631e"],
-Cell[762, 27, 10918, 250, 667, "Output",ExpressionUUID->"620ece10-7b85-4f8b-896f-0d3f22f3e749"]
+Cell[580, 22, 175, 3, 69, "Chapter",ExpressionUUID->"353635ab-7302-4b81-99f3-93d14095631e"],
+Cell[758, 27, 10916, 250, 652, "Output",ExpressionUUID->"620ece10-7b85-4f8b-896f-0d3f22f3e749"],
+Cell[11677, 279, 222, 3, 28, "Input",ExpressionUUID->"df8bf455-cb55-9e41-8f44-86608dcc933a"]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
